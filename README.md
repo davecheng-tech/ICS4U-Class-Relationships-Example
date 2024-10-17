@@ -1,8 +1,17 @@
 # ICS4U Class Relationships Practice
 
+This is an example of a series of related classes demonstrating HAS-A (i.e. aggregate) and IS-A (i.e.inheritance) relationships.
+
 Implement the classes for `Person`, `TeamMember`, `Coach`, `Player`, and `Team` as per this [UML Class Diagram](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/uml-class-diagram-tutorial/):
 
 ![diagram](images/diagram.png)
+
+## Instructions
+- Study the UML Class Diagram above. 
+- Note the names and data types of the instance variables. The `-` symbol indicates these variables should be private to the class.
+- Note the names, parameters, and return data types of the instance methods. The `+` symbol indicates these methods should be public.
+- Write the code to implement these classes in the suggested order of `Person`, `TeamMember`, `Coach`, `Player`, and finally `Team`.
+- You should not modify any of the code in `TeamDemo.java`. It should run successfully when all classes are implemented properly.
 
 ## Runtime Demonstration
 
